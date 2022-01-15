@@ -1,0 +1,122 @@
+body{
+text-align:center;
+margin: 0;
+font-family:'Merriweather',serif ;
+}
+
+h1{
+    font-family: 'Great Vibes', cursive;
+    font-size:6rem;  /* 100% is equal to 16px and 1rem is equal to 16px*/
+    margin:0 auto 0 auto; 
+    color: #5DADE2;
+}
+h2{
+    font-family:'Montserrat',sans-serif;
+    font-size: 2rem;
+    color: #5DADE2;
+    font-weight: normal;
+}
+.myskills {
+    font-family: 'Great Vibes', cursive ;
+    font-size: 4rem;
+    font-weight: bold;
+    color:purple ;
+    padding:20px;
+    margin:3px;
+    background-color: rgb(95, 255, 47);
+    background-size: 2px;
+}
+.programming {
+    font-weight: bold;
+}
+h3{
+  font-family:'Montserrat',sans-serif;
+  color: #7F8C8D;
+}
+
+.skill-row {
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.hobbies {
+    width:50%;
+      margin:100px auto 100px auto;
+      text-align: left;
+      line-height: 2;
+}
+.coding {
+    width:30%;
+    float: left;
+    margin-right: 30px;
+}
+.music {
+    width:30%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+.programming-skills {
+    color: #5DADE2;
+}
+.cricket {
+    color: #5DADE2;
+}
+.upper{
+    background-color:#D9D7F1;
+    padding-top:100px;
+    position: relative;
+}
+
+
+.pro{
+    text-decoration:underline;
+}
+
+.bottom-cloud {
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.upper-cloud {
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+.getintouch {
+    font-family: 'Great Vibes', cursive ;
+    font-size: 4rem;
+    font-weight: bold;
+    color:purple ;
+    padding:20px;
+    margin:3px;
+    background-color: rgb(95, 255, 47);
+    background-size: 2px;
+}
+.btn:hover {
+    transform: scale(1.2);
+}
+
+.bottom-container {
+    margin:80px auto 50px auto;
+}
+
+.linkedin:hover {
+    transform: scale(1.2);
+}
+.twitter:hover {
+     transform: scale(1.2);
+}
+.github:hover {
+       transform:scale(1.2);
+}
+
+.footer {
+    background-color: #9694D6;
+    margin:0;
+    padding: 4px;
+}
